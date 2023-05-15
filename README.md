@@ -12,6 +12,7 @@ This repository contains my JavaScript practice projects and exercises. Each pro
 2. **To-Do List** - A web application that lets users add and remove items from a to-do list. Built using HTML, CSS, and JavaScript.
 
 3. **Weather App** - A web application that shows the weather forecast for a given location using the OpenWeatherMap API. Built using HTML, CSS, and JavaScript.
+4. **Movie Information** - A web application that shows the basic details of any movie using the OmdbApi. Built using HTML, CSS and JavaScript
 
 
 ## How to Use
